@@ -1,7 +1,7 @@
 const net = require('net');
 
 const HOST = 'localhost';
-const PORT = 0013;
+const PORT = 13;
 
 net.createServer(function(sock) {
     
